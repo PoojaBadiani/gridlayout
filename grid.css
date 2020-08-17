@@ -1,7 +1,7 @@
 main{
   width: 90%;
   margin: 50px auto;
-  border: 2px solid black;
+  border: 2px solid red;
   background: rgb(245, 233, 233);
   display: grid;
   grid-template-rows: 150px 150px;
